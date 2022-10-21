@@ -1,0 +1,15 @@
+{
+    "labels":{
+        "email":"E-posta",
+        "password":"Parola",
+        "locale":"Dil"
+    },
+    "tabbar":{
+        "list":"Liste",
+        "account":"Hesabım"
+    },
+    "languages":{
+        "tr":"Türkçe",
+        "en":"İngilizce"
+    }
+}

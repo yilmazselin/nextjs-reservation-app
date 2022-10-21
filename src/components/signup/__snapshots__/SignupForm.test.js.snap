@@ -1,0 +1,236 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SignupForm /> should render the form fields correctly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 45px;
+}
+
+.c3 {
+  color: #64738C;
+  font-size: 16px;
+  font-family: "NunitoSans-500","sans-serif";
+  -webkit-order: 1;
+  -ms-flex-order: 1;
+  order: 1;
+  pointer-events: none;
+  -webkit-transform-origin: left top;
+  -ms-transform-origin: left top;
+  transform-origin: left top;
+  -webkit-transform: scale(1) translate3d(0,22px,0);
+  -ms-transform: scale(1) translate3d(0,22px,0);
+  transform: scale(1) translate3d(0,22px,0);
+  -webkit-transition: 200ms ease all;
+  transition: 200ms ease all;
+  position: relative;
+}
+
+.c1 {
+  position: relative;
+  border-radius: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  color: #121212;
+  font-size: 16px;
+  font-family: "NunitoSans-600","sans-serif";
+  line-height: 24px;
+  padding-bottom: 8px;
+  outline: 0;
+  border: 0;
+  border-bottom: 1px solid;
+  border-bottom-color: #BBC3CF;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  -webkit-order: 2;
+  -ms-flex-order: 2;
+  order: 2;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.c1:focus ~ .c2,
+.c1:not(:placeholder-shown) ~ .c2 {
+  color: #77869e;
+  -webkit-transform: scale(0.8) translate3d(0,-8px,0);
+  -ms-transform: scale(0.8) translate3d(0,-8px,0);
+  transform: scale(0.8) translate3d(0,-8px,0);
+}
+
+.c1:not(:placeholder-shown) {
+  border-bottom-color: #64738C;
+}
+
+.c1:focus {
+  border-bottom-color: #0DAFC0;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 35px;
+  overflow: hidden;
+}
+
+.c6 {
+  color: #64738C;
+  font-size: 16px;
+  font-family: "NunitoSans-500","sans-serif";
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.c7 {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #64738C;
+  padding-bottom: 8px;
+  margin-left: -5px;
+  width: calc(100% + 5px);
+  color: #121212;
+  font-size: 16px;
+  font-family: "NunitoSans-600","sans-serif";
+}
+
+.c8 {
+  width: 100%;
+  height: 56px;
+  border: none;
+  border-radius: 12px;
+  outline: none;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 14px;
+  font-family: "NunitoSans-700","sans-serif";
+  color: #fff;
+  background-color: #E82223;
+  cursor: default;
+  background-color: #BBC3CF;
+  color: #fff;
+}
+
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="c0"
+    >
+      <input
+        class="c1"
+        id="email"
+        name="email"
+        placeholder=" "
+        type="email"
+        value=""
+      />
+      <label
+        class="c2 c3"
+        for="email"
+      >
+        common:labels.email
+      </label>
+    </div>
+    <div
+      class="c4"
+    >
+      <input
+        class="c1"
+        id="password"
+        name="password"
+        placeholder=" "
+        type="password"
+        value=""
+      />
+      <label
+        class="c2 c3"
+        for="password"
+      >
+        common:labels.password
+      </label>
+    </div>
+    <div
+      class="c5"
+    >
+      <label
+        class="c6"
+        for="locale"
+      >
+        common:labels.locale
+      </label>
+      <select
+        class="c7"
+        data-testid="select"
+        id="locale"
+        name="locale"
+      >
+        <option
+          data-testid="select-option"
+          selected=""
+          value="tr"
+        >
+          common:languages.tr
+        </option>
+        <option
+          data-testid="select-option"
+          value="en"
+        >
+          common:languages.en
+        </option>
+      </select>
+    </div>
+    <button
+      class="c8"
+      color="primary"
+      disabled=""
+      role="submit-button"
+      type="submit"
+    >
+      auth:signup-button
+    </button>
+  </form>
+</div>
+`;

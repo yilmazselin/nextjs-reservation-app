@@ -1,0 +1,339 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Account /> Should render correctly 1`] = `
+.c1 {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.c0 {
+  padding-bottom: 100px;
+}
+
+.c3 {
+  color: #121212;
+  font-size: 32px;
+  font-family: "NunitoSans-600","sans-serif";
+  margin-top: 92px;
+}
+
+.c5 {
+  color: #121212;
+  font-size: 14px;
+  font-family: "NunitoSans-600","sans-serif";
+  -webkit-letter-spacing: 0.4px;
+  -moz-letter-spacing: 0.4px;
+  -ms-letter-spacing: 0.4px;
+  letter-spacing: 0.4px;
+  margin-bottom: 16px;
+}
+
+.c12 {
+  color: #121212;
+  font-size: 12px;
+  font-family: "NunitoSans-600","sans-serif";
+  margin-top: 8px;
+}
+
+.c4 {
+  border-bottom: 1px solid #E6E6E6;
+  padding-bottom: 8px;
+  margin-bottom: 24px;
+}
+
+.c10 {
+  background-color: #fafafa;
+  width: 100%;
+  height: 80px;
+  position: fixed;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 35px;
+  overflow: hidden;
+}
+
+.c7 {
+  color: #64738C;
+  font-size: 16px;
+  font-family: "NunitoSans-500","sans-serif";
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.c8 {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #64738C;
+  padding-bottom: 8px;
+  margin-left: -5px;
+  width: calc(100% + 5px);
+  color: #121212;
+  font-size: 16px;
+  font-family: "NunitoSans-600","sans-serif";
+}
+
+.c9 {
+  width: 100%;
+  height: 56px;
+  border: none;
+  border-radius: 12px;
+  outline: none;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 14px;
+  font-family: "NunitoSans-700","sans-serif";
+  color: #E82223;
+  background-color: #fff;
+  border: 1px solid #E82223;
+}
+
+.c2 {
+  height: calc(100vh - 104px);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+@media (min-width:576px) {
+  .c1 {
+    max-width: 540px;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    max-width: 720px;
+  }
+}
+
+@media (min-width:992px) {
+  .c1 {
+    max-width: 960px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width:1400px) {
+  .c1 {
+    max-width: 1320px;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <p
+          class="c3"
+          color="#121212"
+          font-size="32"
+          font-weight="600"
+        >
+          account:title
+        </p>
+        <div>
+          <div
+            class="c4"
+          >
+            <p
+              class="c5"
+              color="#121212"
+              font-size="14"
+              font-weight="600"
+            >
+              account:email
+              : 
+              test@gmail.com
+            </p>
+            <p
+              class="c5"
+              color="#121212"
+              font-size="14"
+              font-weight="600"
+            >
+              account:password
+              : 
+              1234
+            </p>
+            <p
+              class="c5"
+              color="#121212"
+              font-size="14"
+              font-weight="600"
+            >
+              account:locale
+              : 
+              tr
+            </p>
+          </div>
+          <div
+            class="c6"
+          >
+            <label
+              class="c7"
+              for="locale"
+            >
+              common:labels.locale
+            </label>
+            <select
+              class="c8"
+              data-testid="select"
+              id="locale"
+              name="locale"
+            >
+              <option
+                data-testid="select-option"
+                selected=""
+                value="tr"
+              >
+                common:languages.tr
+              </option>
+              <option
+                data-testid="select-option"
+                value="en"
+              >
+                common:languages.en
+              </option>
+            </select>
+          </div>
+        </div>
+        <button
+          class="c9"
+          color="outline-primary"
+          role="signout-button"
+          type="button"
+        >
+          account:logout
+        </button>
+      </div>
+    </div>
+    <div
+      class="c10"
+    >
+      <a
+        class="c11"
+        data-testid="tab-list"
+      >
+        <svg
+          color="#4D4D4D"
+          data-testid="svg-icon"
+          style="display: inline-block; stroke: currentColor; fill: currentColor;"
+          viewBox="0 0 1024 1024"
+        >
+          <path
+            d="M568.889 0v341.333h455.111v-341.333h-455.111zM568.889 1024h455.111v-568.889h-455.111v568.889zM0 1024h455.111v-341.333h-455.111v341.333zM0 568.889h455.111v-568.889h-455.111v568.889z"
+          />
+        </svg>
+        <p
+          class="c12"
+          color="#121212"
+          font-size="12"
+          font-weight="600"
+        >
+          common:tabbar.list
+        </p>
+      </a>
+      <a
+        class="c11"
+        data-testid="tab-account"
+      >
+        <svg
+          color="#4D4D4D"
+          data-testid="svg-icon"
+          style="display: inline-block; stroke: currentColor; fill: currentColor;"
+          viewBox="0 0 1024 1024"
+        >
+          <path
+            d="M512 0c67.895 0 133.009 26.971 181.018 74.981 48.013 48.009 74.982 113.124 74.982 181.019s-26.97 133.010-74.982 181.018c-48.009 48.013-113.122 74.982-181.018 74.982s-133.010-26.97-181.019-74.982c-48.009-48.008-74.981-113.122-74.981-181.018s26.971-133.010 74.981-181.019c48.009-48.009 113.124-74.981 181.019-74.981zM512 640c282.88 0 512 114.56 512 256v128h-1024v-128c0-141.44 229.12-256 512-256z"
+          />
+        </svg>
+        <p
+          class="c12"
+          color="#121212"
+          font-size="12"
+          font-weight="600"
+        >
+          common:tabbar.account
+        </p>
+      </a>
+    </div>
+  </div>
+</div>
+`;

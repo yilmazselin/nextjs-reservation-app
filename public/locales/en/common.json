@@ -1,0 +1,15 @@
+{
+    "labels":{
+        "email":"E-mail",
+        "password":"Password",
+        "locale":"Locale"
+    },
+    "tabbar":{
+        "list":"List",
+        "account":"Account"
+    },
+    "languages":{
+        "tr":"Turkish",
+        "en":"English"
+    }
+}

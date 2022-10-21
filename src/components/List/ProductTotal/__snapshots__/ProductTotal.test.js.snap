@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProductTotal /> Should render correctly 1`] = `
+.c1 {
+  color: #000000;
+  font-size: 24px;
+  font-family: "NunitoSans-700","sans-serif";
+  margin-bottom: 24px;
+}
+
+.c2 {
+  color: #000000;
+  font-size: 14px;
+  font-family: "NunitoSans-500","sans-serif";
+  margin-bottom: 16px;
+}
+
+.c3 {
+  color: #000000;
+  font-size: 16px;
+  font-family: "NunitoSans-700","sans-serif";
+  margin-top: 24px;
+}
+
+.c0 {
+  margin-top: 40px;
+  margin-bottom: 33px;
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <p
+      class="c1"
+      color="#000000"
+      font-size="24"
+      font-weight="700"
+    >
+      list:totalOfProducts
+      :
+    </p>
+    <p
+      class="c2"
+      color="#000000"
+      data-testid="totalPriceProducts"
+      font-size="14"
+      font-weight="500"
+    >
+      list:total
+      : 
+       
+    </p>
+    <p
+      class="c2"
+      color="#000000"
+      data-testid="taxes"
+      font-size="14"
+      font-weight="500"
+    >
+      list:taxes
+       + 
+      list:shipping
+      : 
+       
+    </p>
+    <p
+      class="c3"
+      color="#000000"
+      font-size="16"
+      font-weight="700"
+    >
+      list:generalTotal
+      : 
+       
+    </p>
+  </div>
+</div>
+`;

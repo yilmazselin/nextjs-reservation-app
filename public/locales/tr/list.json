@@ -1,0 +1,10 @@
+{
+    "addBasket":"Sepete Ekle",
+    "removeBasket":"Sepetten Çıkar",
+    "price":"Fiyat",
+    "totalOfProducts":"Ürünlerin Toplamı",
+    "total":"Toplam",
+    "taxes":"Vergiler",
+    "shipping":"Kargo",
+    "generalTotal":"Genel Toplam"
+}

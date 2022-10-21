@@ -1,0 +1,519 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> Should render correctly 1`] = `
+.c1 {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+  margin-top: 24px;
+}
+
+.c0 {
+  padding-bottom: 100px;
+}
+
+.c7 {
+  color: #121212;
+  font-size: 16px;
+  font-family: "NunitoSans-600","sans-serif";
+  -webkit-letter-spacing: 0.1px;
+  -moz-letter-spacing: 0.1px;
+  -ms-letter-spacing: 0.1px;
+  letter-spacing: 0.1px;
+}
+
+.c8 {
+  color: #64738C;
+  font-size: 12px;
+  font-family: "NunitoSans-500","sans-serif";
+  -webkit-letter-spacing: 0.1px;
+  -moz-letter-spacing: 0.1px;
+  -ms-letter-spacing: 0.1px;
+  letter-spacing: 0.1px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.c10 {
+  color: #121212;
+  font-size: 12px;
+  font-family: "NunitoSans-500","sans-serif";
+  -webkit-letter-spacing: 0.1px;
+  -moz-letter-spacing: 0.1px;
+  -ms-letter-spacing: 0.1px;
+  letter-spacing: 0.1px;
+}
+
+.c13 {
+  color: #0078E3;
+  font-size: 12px;
+  font-family: "NunitoSans-700","sans-serif";
+  -webkit-letter-spacing: 0.1px;
+  -moz-letter-spacing: 0.1px;
+  -ms-letter-spacing: 0.1px;
+  letter-spacing: 0.1px;
+  margin-left: 8px;
+  text-transform: uppercase;
+}
+
+.c15 {
+  color: #000000;
+  font-size: 24px;
+  font-family: "NunitoSans-700","sans-serif";
+  margin-bottom: 24px;
+}
+
+.c16 {
+  color: #000000;
+  font-size: 14px;
+  font-family: "NunitoSans-500","sans-serif";
+  margin-bottom: 16px;
+}
+
+.c17 {
+  color: #000000;
+  font-size: 16px;
+  font-family: "NunitoSans-700","sans-serif";
+  margin-top: 24px;
+}
+
+.c20 {
+  color: #121212;
+  font-size: 12px;
+  font-family: "NunitoSans-600","sans-serif";
+  margin-top: 8px;
+}
+
+.c18 {
+  background-color: #fafafa;
+  width: 100%;
+  height: 80px;
+  position: fixed;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.c3 {
+  border-bottom: 1px solid #f1f3f5;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 {
+  height: 75px;
+  position: relative;
+  display: inline-block;
+  border-radius: 12px;
+  -webkit-filter: drop-shadow(0px 10px 15px #c8c9cd);
+  filter: drop-shadow(0px 10px 15px #c8c9cd);
+}
+
+.c5 img {
+  display: block;
+  width: auto;
+  border-radius: 12px;
+}
+
+.c5:after {
+  content: "";
+  border-radius: 12px;
+  position: absolute;
+  left: 0%;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  background: linear-gradient( 180deg, rgba(0,0,0,0) 41.03%, rgba(0,0,0,0) 41.03%, rgba(0,0,0,0.8) 84.62% );
+}
+
+.c6 {
+  margin-left: 16px;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c9:nth-child(2) {
+  margin-left: 24px;
+}
+
+.c11 {
+  margin-top: 10px;
+}
+
+.c12 {
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-left: auto;
+}
+
+.c14 {
+  margin-top: 40px;
+  margin-bottom: 33px;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.c2 > div {
+  width: 100%;
+}
+
+.c2 > div:nth-child(2) {
+  text-align: right;
+}
+
+@media (min-width:576px) {
+  .c1 {
+    max-width: 540px;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    max-width: 720px;
+  }
+}
+
+@media (min-width:992px) {
+  .c1 {
+    max-width: 960px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width:1400px) {
+  .c1 {
+    max-width: 1320px;
+  }
+}
+
+@media (max-width:768px) {
+  .c2 {
+    display: block;
+  }
+}
+
+@media (max-width:768px) {
+  .c2 > div:nth-child(2) {
+    text-align: left;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <div>
+          <div
+            class="c3"
+          >
+            <div
+              class="c4"
+            >
+              <div
+                class="c5"
+              >
+                <span
+                  style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+                >
+                  <span
+                    style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2775%27%20height=%2775%27/%3e"
+                      style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+                    />
+                  </span>
+                  <img
+                    data-nimg="intrinsic"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </span>
+              </div>
+              <div
+                class="c6"
+              >
+                <p
+                  class="c7"
+                  color="#121212"
+                  font-size="16"
+                  font-weight="600"
+                >
+                  Villa Bosphorus
+                </p>
+                <p
+                  class="c8"
+                  color="#64738C"
+                  font-size="12"
+                  font-weight="500"
+                >
+                  Lorem ipsum dolor sit amet
+                </p>
+                <div
+                  class="c9"
+                >
+                  <div
+                    class="c9"
+                  >
+                    <svg
+                      color="#ECD03F"
+                      data-testid="svg-icon"
+                      style="display: inline-block; stroke: currentColor; fill: currentColor; width: 14px; height: 14px; margin-right: 4px;"
+                      viewBox="0 0 1024 1024"
+                    >
+                      <path
+                        d="M501.889 776.441l-286.272 183.918 77.27-342.294-255.46-228.234 334.697-28.785 128.356-325.037 129.593 324.498 334.85 27.385-254.635 229.3 78.573 341.966-286.971-182.718z"
+                      />
+                    </svg>
+                    <p
+                      class="c10"
+                      color="#121212"
+                      font-size="12"
+                      font-weight="500"
+                    >
+                      5.0
+                    </p>
+                  </div>
+                  <div
+                    class="c9"
+                  >
+                    <svg
+                      color="#0DAFC0"
+                      data-testid="svg-icon"
+                      style="display: inline-block; stroke: currentColor; fill: currentColor; width: 14px; height: 14px; margin-right: 4px;"
+                      viewBox="0 0 1024 1024"
+                    >
+                      <path
+                        d="M798.253 689.702l-270.986 272.070-272.072-270.989c-53.81-53.596-90.518-121.946-105.483-196.404s-7.514-151.683 21.41-221.907c28.924-70.225 78.022-130.295 141.087-172.615s137.261-64.989 213.209-65.141c75.948-0.151 150.234 22.221 213.469 64.29 63.232 42.068 112.57 101.942 141.773 172.051s36.96 147.302 22.298 221.821c-14.669 74.518-51.104 143.013-104.704 196.825zM526.524 589.379c45.264-0.090 88.637-18.157 120.58-50.228s49.837-75.516 49.747-120.779c-0.091-45.263-18.158-88.637-50.228-120.579s-75.516-49.837-120.779-49.747c-45.264 0.090-88.637 18.157-120.58 50.228s-49.837 75.516-49.747 120.779c0.090 45.263 18.158 88.637 50.228 120.58s75.516 49.836 120.779 49.746zM526.353 504.045c-22.632 0.045-44.355-8.902-60.389-24.873s-25.069-37.658-25.114-60.29c-0.045-22.632 8.902-44.355 24.874-60.39s37.658-25.068 60.289-25.114c22.632-0.045 44.355 8.902 60.39 24.873s25.069 37.658 25.114 60.29c0.045 22.632-8.902 44.355-24.873 60.39s-37.658 25.069-60.29 25.114z"
+                      />
+                    </svg>
+                    <p
+                      class="c10"
+                      color="#121212"
+                      font-size="12"
+                      font-weight="500"
+                    >
+                      3.7 km
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="c11"
+                >
+                  <p
+                    class="c10"
+                    color="#121212"
+                    font-size="12"
+                    font-weight="500"
+                  >
+                    list:price
+                     
+                    20000
+                     
+                    TL
+                  </p>
+                </div>
+              </div>
+            </div>
+            <button
+              class="c12"
+              data-testid="add-basket"
+            >
+              <svg
+                color="#0078E3"
+                data-testid="svg-icon"
+                style="display: inline-block; stroke: currentColor; fill: currentColor; width: 20px; height: 20px;"
+                viewBox="0 0 1024 1024"
+              >
+                <path
+                  d="M559.408 267.037h-94.814v189.629h-189.63v94.815h189.63v189.627h94.814v-189.627h189.631v-94.815h-189.631v-189.629zM512.001 30c-261.689 0-474.074 212.385-474.074 474.074 0 261.69 212.385 474.073 474.074 474.073 261.688 0 474.077-212.383 474.077-474.073 0-261.689-212.389-474.074-474.077-474.074zM512.001 883.331c-209.067 0-379.259-170.189-379.259-379.257 0-209.067 170.193-379.259 379.259-379.259 209.066 0 379.26 170.193 379.26 379.259 0 209.068-170.194 379.257-379.26 379.257z"
+                />
+              </svg>
+              <p
+                class="c13"
+                color="#0078E3"
+                font-size="12"
+                font-weight="700"
+              >
+                list:addBasket
+              </p>
+            </button>
+          </div>
+        </div>
+        <div
+          class="c14"
+        >
+          <p
+            class="c15"
+            color="#000000"
+            font-size="24"
+            font-weight="700"
+          >
+            list:totalOfProducts
+            :
+          </p>
+          <p
+            class="c16"
+            color="#000000"
+            data-testid="totalPriceProducts"
+            font-size="14"
+            font-weight="500"
+          >
+            list:total
+            : 
+             
+          </p>
+          <p
+            class="c16"
+            color="#000000"
+            data-testid="taxes"
+            font-size="14"
+            font-weight="500"
+          >
+            list:taxes
+             + 
+            list:shipping
+            : 
+             
+          </p>
+          <p
+            class="c17"
+            color="#000000"
+            font-size="16"
+            font-weight="700"
+          >
+            list:generalTotal
+            : 
+             
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="c18"
+    >
+      <a
+        class="c19"
+        data-testid="tab-list"
+      >
+        <svg
+          color="#4D4D4D"
+          data-testid="svg-icon"
+          style="display: inline-block; stroke: currentColor; fill: currentColor;"
+          viewBox="0 0 1024 1024"
+        >
+          <path
+            d="M568.889 0v341.333h455.111v-341.333h-455.111zM568.889 1024h455.111v-568.889h-455.111v568.889zM0 1024h455.111v-341.333h-455.111v341.333zM0 568.889h455.111v-568.889h-455.111v568.889z"
+          />
+        </svg>
+        <p
+          class="c20"
+          color="#121212"
+          font-size="12"
+          font-weight="600"
+        >
+          common:tabbar.list
+        </p>
+      </a>
+      <a
+        class="c19"
+        data-testid="tab-account"
+      >
+        <svg
+          color="#4D4D4D"
+          data-testid="svg-icon"
+          style="display: inline-block; stroke: currentColor; fill: currentColor;"
+          viewBox="0 0 1024 1024"
+        >
+          <path
+            d="M512 0c67.895 0 133.009 26.971 181.018 74.981 48.013 48.009 74.982 113.124 74.982 181.019s-26.97 133.010-74.982 181.018c-48.009 48.013-113.122 74.982-181.018 74.982s-133.010-26.97-181.019-74.982c-48.009-48.008-74.981-113.122-74.981-181.018s26.971-133.010 74.981-181.019c48.009-48.009 113.124-74.981 181.019-74.981zM512 640c282.88 0 512 114.56 512 256v128h-1024v-128c0-141.44 229.12-256 512-256z"
+          />
+        </svg>
+        <p
+          class="c20"
+          color="#121212"
+          font-size="12"
+          font-weight="600"
+        >
+          common:tabbar.account
+        </p>
+      </a>
+    </div>
+  </div>
+</div>
+`;
